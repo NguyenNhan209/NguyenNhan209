@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nhân Nguyễn</h1>
 <h3 align="center">💻 Developer | 🧠 Tech Enthusiast</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"/>
+</p>
+
 ---
 
 ### 🚀 About Me
@@ -27,6 +31,19 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenNhan209&theme=tokyonight" />
 </p>
 
+<p align="center">
+  [![NguyenNhan209's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NguyenNhan209&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</p>
+
+---
+
+### 🌟 Featured Repositories
+<p align="center">
+  <a href="https://github.com/NguyenNhan209/lantern-festival">Lantern Festival</a> | 
+  <a href="#">Repo khác 1</a> | 
+  <a href="#">Repo khác 2</a>
+</p>
+
 ---
 
 ### 🔗 Connect with Me
@@ -43,6 +60,13 @@
   <a href="https://discord.com/users/gs211009" target="_blank">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
+</p>
+
+---
+
+### 👀 Visitor Count
+<p align="center">
+  ![Visitor Count](https://komarev.com/ghpvc/?username=NguyenNhan209&color=blue)
 </p>
 
 ---
