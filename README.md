@@ -42,6 +42,9 @@
   <a href="https://github.com/NguyenNhan209/lantern-festival">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNhan209&repo=lantern-festival&theme=tokyonight" alt="Lantern Festival Repo" />
   </a>
+    <a href="https://github.com/NguyenNhan209/Water-drop-simulator/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNhan209&repo=Water-drop-simulator&theme=tokyonight" alt="Water Drop Simulator Repo" />
+  </a>
 </p>
 
 ---
