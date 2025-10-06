@@ -2,21 +2,21 @@
 <h3 align="center">💻 Developer | 🧠 Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="120px" />
 </p>
 
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently working on interesting projects in **Python & HTML**
-- 🌱 I’m learning automation, web development, and GitHub best practices
-- 💬 Ask me about Python, HTML, GitHub, and automation scripts
-- 📫 Reach me at: [Email](mailto:nguyennhan24912@gmail.com)
+- 🔭 Currently exploring exciting projects in **Python & HTML**
+- 🌱 Learning **automation**, **web development**, and **GitHub optimization**
+- 💬 Ask me about **Python, HTML, and automation scripts**
+- 📫 Reach me at: [nguyennhan24912@gmail.com](mailto:nguyennhan24912@gmail.com)
 
 ---
 
 ### 🧰 Languages & Tools
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,html,github,git" />
 </p>
 
@@ -24,24 +24,24 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NguyenNhan209&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NguyenNhan209&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenNhan209&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenNhan209&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  [![NguyenNhan209's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=NguyenNhan209&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NguyenNhan209&theme=tokyonight" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
-### 🌟 Featured Repositories
+### 🌟 Featured Project
 <p align="center">
-  <a href="https://github.com/NguyenNhan209/lantern-festival">Lantern Festival</a> | 
-  <a href="#">Repo khác 1</a> | 
-  <a href="#">Repo khác 2</a>
+  <a href="https://github.com/NguyenNhan209/lantern-festival">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=NguyenNhan209&repo=lantern-festival&theme=tokyonight" alt="Lantern Festival Repo" />
+  </a>
 </p>
 
 ---
@@ -66,10 +66,12 @@
 
 ### 👀 Visitor Count
 <p align="center">
-  ![Visitor Count](https://komarev.com/ghpvc/?username=NguyenNhan209&color=blue)
+  <img src="https://komarev.com/ghpvc/?username=NguyenNhan209&color=blue&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
 </p>
 
 ---
 
 ### 🧩 Fun Quote
-> “Code is like humor. When you have to explain it, it’s bad.” 😄
+<p align="center">
+  <i>“Code is like humor. When you have to explain it, it’s bad.” 😄</i>
+</p>
